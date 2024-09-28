@@ -11,6 +11,7 @@ ubuntu一键挖矿更新脚本
 环境要求
 Ubuntu 22.04
 需要以 root 用户身份运行脚本。
+
 安装步骤
 下载脚本
 curl -O https://gh-proxy.com/https://raw.githubusercontent.com/ShoufuMining/One-Click-Mining-Script-for-Ubuntu/main/One-Click-Mining-Script-for-Ubuntu.sh

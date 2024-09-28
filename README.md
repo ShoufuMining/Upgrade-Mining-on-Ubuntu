@@ -21,3 +21,5 @@ chmod +x One-Click-Mining-Script-for-Ubuntu.sh
 
 运行脚本
 sudo ./One-Click-Mining-Script-for-Ubuntu.sh
+
+一键安装命令：wget -qO- https://gh-proxy.com/https://raw.githubusercontent.com/ShoufuMining/One-Click-Mining-Script-for-Ubuntu/main/One-Click-Mining-Script-for-Ubuntu.sh | bash
